@@ -221,6 +221,8 @@
     - moka-icon-theme
     - numix-circle-arc-icons-git
     - numix-circle-icon-theme-git
+    - numix-gtk-theme
+    - openbox-themes-pambudi-git
     - oxy-neon
     - paper-icon-theme
     - papirus-icon-theme
@@ -232,6 +234,7 @@
   selected: false
   packages:
     - baobab
+    - catfish
     - evince
     - glances
     - glxinfo
