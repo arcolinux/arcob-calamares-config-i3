@@ -78,8 +78,6 @@
     - plank
     - arcolinux-plank-themes-git
     - screenkey-git
-    - arcolinux-variety-git
-    - variety
     - xfburn
 - name: "Development"
   description: "Development"
